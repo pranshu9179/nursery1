@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <!-- Heart-shaped Cordate Leaf (Pothos): Variegated with golden marigold accent -->
+  <path d="M32 14C28 7 16 6 12 16C8 26 18 42 32 56C32 40 32 26 32 14Z" fill="#F2B632"/>
+  <path d="M32 14C36 7 48 6 52 16C56 26 46 42 32 56C32 40 32 26 32 14Z" fill="#2E9E4F"/>
+  <path d="M26 12C20 14 16 20 18 28C22 24 26 22 28 16Z" fill="#8CC59A" opacity="0.85"/>
+  <path d="M32 56Q33 59 34 62" stroke="#1F7A3A" stroke-width="2" stroke-linecap="round"/>
+  <path d="M32 14C32 26 32 42 32 56" stroke="#1F7A3A" stroke-width="1.75" stroke-linecap="round"/>
+  <path d="M32 24Q24 26 18 24M32 34Q22 36 20 38M32 44Q26 46 24 49" stroke="#1F7A3A" stroke-width="0.9" stroke-linecap="round" opacity="0.5"/>
+  <path d="M32 24Q40 26 46 24M32 34Q42 36 44 38M32 44Q38 46 40 49" stroke="#123C36" stroke-width="0.9" stroke-linecap="round" opacity="0.5"/>
+</svg>

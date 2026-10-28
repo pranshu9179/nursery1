@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <!-- Pilea Peperomioides: Circular coin leaf with earthy terracotta and forest green -->
+  <path d="M32 8C18.745 8 8 18.745 8 32C8 45.255 18.745 56 32 56C32 40 32 24 32 8Z" fill="#A8322D"/>
+  <path d="M32 8C45.255 8 56 18.745 56 32C56 45.255 45.255 56 32 56C32 40 32 24 32 8Z" fill="#1F7A3A"/>
+  <circle cx="32" cy="34" r="16" fill="#8CC59A" opacity="0.3"/>
+  <circle cx="32" cy="36" r="3.5" fill="#FDF1CF" stroke="#A8322D" stroke-width="1.5"/>
+  <path d="M32 39.5Q30 48 28 62" stroke="#8C2925" stroke-width="2" stroke-linecap="round"/>
+  <path d="M32 32.5V14M29 34L16 24M28.5 37L13 38M29.5 39L18 48M35 34L48 24M35.5 37L51 38M34.5 39L46 48" stroke="#FFFFFF" stroke-width="0.75" stroke-linecap="round" opacity="0.35"/>
+</svg>

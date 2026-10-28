@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <!-- Ovate Leaf: Two-tone fresh green with distinct midrib -->
+  <path d="M32 6C24 16 14 28 14 40C14 48 22 54 32 56C32 38 32 20 32 6Z" fill="#2E9E4F"/>
+  <path d="M32 6C40 16 50 28 50 40C50 48 42 54 32 56C32 38 32 20 32 6Z" fill="#1F7A3A"/>
+  <path d="M32 56V62" stroke="#123C36" stroke-width="2" stroke-linecap="round"/>
+  <path d="M32 8C32 22 32 38 32 56" stroke="#123C36" stroke-width="1.75" stroke-linecap="round"/>
+  <path d="M32 22Q25 24 20 28M32 32Q23 35 18 41M32 42Q26 45 22 49" stroke="#1F7A3A" stroke-width="1" stroke-linecap="round" opacity="0.6"/>
+  <path d="M32 22Q39 24 44 28M32 32Q41 35 46 41M32 42Q38 45 42 49" stroke="#123C36" stroke-width="1" stroke-linecap="round" opacity="0.5"/>
+</svg>

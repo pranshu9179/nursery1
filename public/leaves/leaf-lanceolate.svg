@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <!-- Lanceolate Leaf: Slender willow form, light sage and vibrant green -->
+  <path d="M32 4C26 18 19 32 22 46C23 50 27 54 32 56C32 38 32 20 32 4Z" fill="#8CC59A"/>
+  <path d="M32 4C38 18 45 32 42 46C41 50 37 54 32 56C32 38 32 20 32 4Z" fill="#2E9E4F"/>
+  <path d="M32 56V62" stroke="#1F7A3A" stroke-width="1.75" stroke-linecap="round"/>
+  <path d="M32 6C31 20 31 38 32 56" stroke="#123C36" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M32 20Q27 24 24 30M32 34Q27 38 24 44" stroke="#2E9E4F" stroke-width="0.8" stroke-linecap="round" opacity="0.7"/>
+  <path d="M32 20Q37 24 40 30M32 34Q37 38 40 44" stroke="#123C36" stroke-width="0.8" stroke-linecap="round" opacity="0.5"/>
+</svg>
